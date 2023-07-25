@@ -1,13 +1,14 @@
-# Weather-Wizard
-A simple weather app created using React.js that displays the current weather for a given location. Users can search for a location and get weather information for that location. The application uses the OpenWeatherMap API to fetch weather data.
+# Meet-Cove
+Powered by React.js, the front-end ensures a seamless and interactive user experience, while Firebase serves as the database, enabling secure user authentication and data management. It incorporates WebRTC technology to facilitate efficient and high-quality audio and video communication between participants.
+
 # Screenshot
-![Screenshot 2023-04-21 151045](https://user-images.githubusercontent.com/78746703/233605512-35b61376-2c89-49f5-bbfe-63441aea16a2.png)
+![image](https://github.com/NitinSohal/MeetCove/assets/78746703/e53b6aa8-13ce-45f5-bd9f-4a3d55c2e05d)
 ## Installation
 
 1. Clone the repository from GitHub:
 
 ```bash
-  git clone https://github.com/NitinSohal/Weather-Wizard.git
+  git clone [https://github.com/NitinSohal/Weather-Wizard.git](https://github.com/NitinSohal/MeetCove.git)
 ```
 2. Navigate to the project directory:
 
