@@ -1,0 +1,20 @@
+.main-screen{
+    width: 100%;
+    height: 87vh;
+    background: #212A3E;
+}
+
+.wrapper{
+    width: 100%;
+}
+
+.footer{
+    height: 10.7vh;
+}
+.wrapper .title{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    background: #212A3E; 
+    color: white;
+}
