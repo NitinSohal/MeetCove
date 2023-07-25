@@ -8,12 +8,12 @@ Powered by React.js, the front-end ensures a seamless and interactive user exper
 1. Clone the repository from GitHub:
 
 ```bash
-  git clone [https://github.com/NitinSohal/Weather-Wizard.git](https://github.com/NitinSohal/MeetCove.git)
+  git clone https://github.com/NitinSohal/MeetCove.git
 ```
 2. Navigate to the project directory:
 
 ```bash
-  cd Weather-Wizard
+  cd MeetCove
 ```
 3. Install the necessary dependencies:
 
@@ -26,7 +26,13 @@ Powered by React.js, the front-end ensures a seamless and interactive user exper
   npm start
 ```
 # Usage
-To use the application, open https://nitinsohal.github.io/Weather-Wizard/ in your web browser. Enter a location in the search bar and click the "Search" button to get weather information for that location. The application will display the current weather conditions.
+1. Open https://meet-cove.vercel.app/ in your web browser.
+2. When the app loads, an alert prompt will appear asking you to enter your name.
+3. Enter your name in the alert prompt and click the "Ok" button.
+4. If you are using the app without an ID you will create a new room for yourself.
+   If you are using the app with an ID, you will join the room associated with that ID.
+5. Once you are in the room, you can share high-quality audio and video with the other users present in the room.
+6. Additionally, the app allows you to share your screen with other users in the room, enabling you to collaborate effectively.
 
 # Contributing
 If you would like to contribute to the project, please follow these steps:
@@ -40,4 +46,4 @@ git commit -m "Add your commit message"
 4. Push your changes to your forked repository: git push origin feature/your-feature-name
 5. Create a pull request
 # Credits
-Weather Wizard was created by Nitin Sohal.
+Meet-Cove was created by Nitin Sohal.
